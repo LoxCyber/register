@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "LoxCyber",
+    "email": "gyramat5@mail.ru"
+  },
+  "records": {
+    "NS": [
+      "adi.ns.cloudflare.com",
+      "beau.ns.cloudflare.com"
+    ]
+  }
+}
